@@ -17,8 +17,8 @@ build version -> 0.6 - 11/27/22
 --GUNS:
 -----------------------------------------------------------------
 -------------------------------AK47------------------------------
-local ASSAULT_RIFLE = nil
-local ASSAULT_RIFLE_HOLOSIGHT = false
+local ASSAULT_RIFLE = nil 4
+local ASSAULT_RIFLE_HOLOSIGHT = true
 local ASSAULT_RIFLE_8X = false
 local ASSAULT_RIFLE_16X = false
 local ASSAULT_RIFLE_HANDMADE = false
